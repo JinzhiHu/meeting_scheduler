@@ -65,7 +65,7 @@ Nodes.to_csv("Nodes.csv", index=False)
 Arcs.to_csv("Arcs.csv", index=False)
 
 
-## Copied from https://mobook.github.io/MO-book/notebooks/04/02-mincost-flow.html
+## Modified from https://mobook.github.io/MO-book/notebooks/04/02-mincost-flow.html
 
 ## pip install pyomo
 ## pip install highspy
